@@ -49,6 +49,8 @@
   
 ### IDE
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)](https://github.com/haikelthaqif)
+[![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white)](https://github.com/haikelthaqif)
+[![Eclipse](https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white)](https://github.com/haikelthaqif)
   
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/haikelthaqif)

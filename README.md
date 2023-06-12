@@ -8,7 +8,7 @@
     <b>Welcome to my page!</b><br><br>
    <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  <i>
         I'm Haikel.<br>
-        Currently starting .<br>
+        Currently experimenting with ML.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/haikel-thaqif/">

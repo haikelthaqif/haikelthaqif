@@ -18,8 +18,8 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-
-- :school: I am a `Fresh Graduate` with a [B.Sc. (Honours) Computing and Information Systems](https://www.sim.edu.sg/degrees-diplomas/programmes/teach-out-inactive-programmes/bachelor-of-science-honours-in-computing-and-information-systems) at [University Of London (UOL)](https://www.london.ac.uk/).
+- :work: Currently a `Software Engineer` @ [NCS Group](https://www.ncs.co/en-sg/).
+- :school: I am a `Graduate` with a [B.Sc. (Honours) Computing and Information Systems](https://www.sim.edu.sg/degrees-diplomas/programmes/teach-out-inactive-programmes/bachelor-of-science-honours-in-computing-and-information-systems) at [University Of London (UOL)](https://www.london.ac.uk/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
